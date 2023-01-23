@@ -1,0 +1,10 @@
+{
+  "name": "Dialtone",
+  "description": "From Deltarune Ch. 2 OST by Toby Fox",
+  "author": "MilkyEgger27",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": True,
+  "ignore": [],
+  "mappings": {}
+}
